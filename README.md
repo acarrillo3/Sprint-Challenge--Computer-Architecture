@@ -1,3 +1,8 @@
+```
+To get it to work type in the terminal: 
+python ls8/ls8.py sctest.ls8
+```
+
 # Sprint Challenge: Computer Architecture - Conditional Jumps
 
 This challenge allows you to practice the concepts and techniques learned over
